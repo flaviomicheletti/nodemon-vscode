@@ -1,8 +1,6 @@
-#
-
+# Debugando JavaScript no VSCode com Nodemon
 
 https://nodemon.io/
-
 
 Criei uma aplicaçõa conforme [express-application-generator](https://github.com/flaviomicheletti/express-application-generator/tree/master)
 
