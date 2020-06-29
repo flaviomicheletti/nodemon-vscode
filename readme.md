@@ -26,7 +26,7 @@ Que, em nosso caso, é equivalente a `nodemon --inspect ./bin/www`.
 
 Se você quiser, pode testar a aplicação http://localhost:3000/.
 
-Agora vá para a visão de Debug precionando `F5`.
+Agora vá para a visão de Debug pressionando `F5`.
 
 Por enquanto, a única configuração que temos é a `Node + Nodemon`.
 
