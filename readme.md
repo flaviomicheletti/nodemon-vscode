@@ -2,7 +2,7 @@
 
 https://nodemon.io/
 
-Criei uma aplicaçõa conforme [express-application-generator](https://github.com/flaviomicheletti/express-application-generator/tree/master)
+Criei uma aplicação conforme [express-application-generator](https://github.com/flaviomicheletti/express-application-generator/tree/master)
 
 Instalei as dependências
 
