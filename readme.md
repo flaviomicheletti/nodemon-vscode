@@ -7,11 +7,11 @@ Criei uma aplicação conforme [express-application-generator](https://github.co
 Instalei as dependências
 
     npm i
+    npm install -save-dev nodemon
 
 Instalei também...
 
     npm install http-errors
-    npm install -save-dev nodemon
 
 
 ### Iniciando o processo
