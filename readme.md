@@ -42,6 +42,17 @@ Agora coloque um break point, por exemplo, no arquivo __user.js__ linha 06.
 Acesse novamente a aplicação  http://localhost:3000/ e voialá.
 
 
+### Atalho
+
+E aqui vai um atalho para o debug, clique na carinha da imagem e ele faz as duas coisas,
+executa o debug e abre a visão do vscode.
+
+Agora é só colocar o break point e realizar a requisição.
+
+![vscode-npm-debug](https://user-images.githubusercontent.com/1257048/86593440-9cb90b00-bf6b-11ea-91e9-29be332c31b3.png)
+
+
+
 ### Ajudou muito...
 
 https://github.com/microsoft/vscode-recipes/tree/master/nodemon
